@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: 33288
+Build-Jdk: Oracle OpenJDK version 21.0.1
+Implementation-Title: teaching-manager-bk
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: group
+Main-Class: ${start-class}
+
